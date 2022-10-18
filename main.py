@@ -1,5 +1,3 @@
-import array as arr
-
 def fibonacci(n):
     f1 = 0 #Первое число Фибоначчи
     f2 = 1 #Второе число Фибоначчи
